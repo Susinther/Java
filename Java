@@ -1,7 +1,7 @@
 // Java Program to find maximum in arr[] 
  
 // Driver Class
-class Test 
+class Java
 { 
       // array declared
     static int arr[] = {10, 324, 45, 90, 9808}; 
